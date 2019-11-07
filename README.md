@@ -15,7 +15,7 @@ Will add all my findings here in this repo. It can be good articles, good videos
     Agriculture
     
 - Planning
-- Data set
+-- Data set
   1. [Google Datasets](https://toolbox.google.com/datasetsearch)
   2. [Kaggle](https://www.kaggle.com/)
   3. [MlRepo](http://mlr.cs.umass.edu/ml/)
