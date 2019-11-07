@@ -11,10 +11,6 @@ Will add all my findings here in this repo. It can be good articles, good videos
 
 ## Lets get into it
 
-- My Projects
-    Agriculture
-    
-- Planning
 -- Data set
   1. [Google Datasets](https://toolbox.google.com/datasetsearch)
   2. [Kaggle](https://www.kaggle.com/)
