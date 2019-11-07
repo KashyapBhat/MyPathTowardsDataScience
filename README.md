@@ -9,9 +9,9 @@ This might help others who are keen about data science.
 ## How 
 Will add all my findings here in this repo. It can be good articles, good videos, good projects and also projects that I will be working on.
 
-## Lets get into it
+# Lets get into it
 
-- Data set
+## Data set
   1. [Google Datasets](https://toolbox.google.com/datasetsearch)
   2. [Kaggle](https://www.kaggle.com/)
   3. [MlRepo](http://mlr.cs.umass.edu/ml/)
