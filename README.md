@@ -11,6 +11,5 @@ Will add all my findings here in this repo. It can be good articles, good videos
 
 ## Lets get into it
 
-Easy way to make your github readme file look better: 
-
-[https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax]
+1. Easy way to make your github readme file look better: [link](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+2. 
