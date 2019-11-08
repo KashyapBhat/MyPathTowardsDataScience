@@ -23,6 +23,7 @@ Will add all my findings here in this repo. It can be good articles, good videos
   5. [Road map for ML](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/eyn8cna/?utm_source=share&utm_medium=web2x)
   6. [Python 0 to hero](quora.com/If-you-are-mentoring-someone-to-become-a-data-scientist-using-Python-from-0-knowledge-what-would-the-learning-path-look-like)
   7. [Elite Data Science](https://elitedatascience.com/)
+  8. [Demanding Skills](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db?_branch_match_id=704784754788833271)
   
 ## Data sets
   1. [Google Datasets](https://toolbox.google.com/datasetsearch)
