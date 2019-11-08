@@ -13,7 +13,7 @@ Will add all my findings here in this repo. It can be good articles, good videos
 
 ## My Projects
 
-## Projects to learn from
+## Projects
 
 ## Articles
   1. [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
