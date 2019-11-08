@@ -16,7 +16,14 @@ Will add all my findings here in this repo. It can be good articles, good videos
 ## Projects to learn from
 
 ## Articles
-
+  1. [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
+  2. [Job in AI](https://towardsdatascience.com/how-to-get-a-job-in-ai-with-no-experience-16526874165d)
+  3. [Innovative ML projects](https://www.analyticsvidhya.com/blog/2019/08/7-innovative-machine-learning-github-projects-in-python/)
+  4. [Best Learning](https://www.learndatasci.com/best-data-science-online-courses/)
+  5. [Road map for ML](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/eyn8cna/?utm_source=share&utm_medium=web2x)
+  6. [Python 0 to hero](quora.com/If-you-are-mentoring-someone-to-become-a-data-scientist-using-Python-from-0-knowledge-what-would-the-learning-path-look-like)
+  7. [Elite Data Science](https://elitedatascience.com/)
+  
 ## Data sets
   1. [Google Datasets](https://toolbox.google.com/datasetsearch)
   2. [Kaggle](https://www.kaggle.com/)
@@ -34,3 +41,4 @@ Will add all my findings here in this repo. It can be good articles, good videos
   14. [Spam](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
   15. [Rotten Tomato Reviews](https://drive.google.com/file/d/1w1TsJB-gmIkZ28d1j7sf1sqcPmHXw352/view)
   16. [Berkeley Deep Drive](https://bdd-data.berkeley.edu/)
+  
