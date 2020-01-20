@@ -5,9 +5,9 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 
 ## My Projects
 
-* **Automated paper evaluation** : *An application to help teachers evaluate examination papers easily using the power of Machine Learning.* 
+* https://github.com/KashyapBhat/AumatedPaperEvaluation
 
-https://github.com/KashyapBhat/AumatedPaperEvaluation
+**Automated paper evaluation** : *An application to help teachers evaluate examination papers easily using the power of Machine Learning.* 
 
 ### Useful articles I found on web
   * [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
