@@ -9,12 +9,19 @@ An application to help teachers evaluate examination papers easily using the pow
 
 ## Best articles I found on web
   [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
+  
   [Job in AI](https://towardsdatascience.com/how-to-get-a-job-in-ai-with-no-experience-16526874165d)
+  
   [Innovative ML projects](https://www.analyticsvidhya.com/blog/2019/08/7-innovative-machine-learning-github-projects-in-python/)
+  
   [Best Learning](https://www.learndatasci.com/best-data-science-online-courses/)
+  
   [Road map for ML](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/eyn8cna/?utm_source=share&utm_medium=web2x)
+  
   [Python 0 to hero](quora.com/If-you-are-mentoring-someone-to-become-a-data-scientist-using-Python-from-0-knowledge-what-would-the-learning-path-look-like)
+  
   [Elite Data Science](https://elitedatascience.com/)
+  
   [Demanding Skills](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db?_branch_match_id=704784754788833271)
   
 ## Best sites with data sets
