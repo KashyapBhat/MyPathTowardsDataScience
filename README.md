@@ -13,12 +13,12 @@ Will add all my findings here in this repo. It can be good articles, good videos
 
 ## My Projects
 
-##### [Automated paper evaluation](https://github.com/KashyapBhat/AumatedPaperEvaluation):
+#### [Automated paper evaluation](https://github.com/KashyapBhat/AumatedPaperEvaluation):
 An application to help teachers evaluate examination papers easily using the power of Machine Learning. 
 
 ## Projects
 
-## Articles
+## Best articles I found on web
   1. [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
   2. [Job in AI](https://towardsdatascience.com/how-to-get-a-job-in-ai-with-no-experience-16526874165d)
   3. [Innovative ML projects](https://www.analyticsvidhya.com/blog/2019/08/7-innovative-machine-learning-github-projects-in-python/)
@@ -28,7 +28,7 @@ An application to help teachers evaluate examination papers easily using the pow
   7. [Elite Data Science](https://elitedatascience.com/)
   8. [Demanding Skills](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db?_branch_match_id=704784754788833271)
   
-## Data sets
+## Best sites with data sets
   1. [Google Datasets](https://toolbox.google.com/datasetsearch)
   2. [Kaggle](https://www.kaggle.com/)
   3. [MlRepo](http://mlr.cs.umass.edu/ml/)
