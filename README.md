@@ -1,20 +1,11 @@
 # MyPathTowardsDataScience
 
-## What
-Just a place where I can gather my learnings and keep it safe.
-
-## Why Github
-This might help others who are keen about data science.
-
-## How 
-Will add all my findings here in this repo. It can be good articles, good videos, good projects and also projects that I will be working on.
+Just a place where I can gather my learnings and keep it safe. This might help others who are keen about data science. Will keep all my findings here in this repo. It can be good articles, good videos, projects that I will be working on.
 
 ## My Projects
 
 #### [Automated paper evaluation](https://github.com/KashyapBhat/AumatedPaperEvaluation):
 An application to help teachers evaluate examination papers easily using the power of Machine Learning. 
-
-## Projects
 
 ## Best articles I found on web
   1. [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
