@@ -1,4 +1,4 @@
-# MyPathTowardsDataScience
+# MyPathTowardsMachineLearning
 
 Just a place to store the ML/AI journey. This might help others who are keen about ml. 
 Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working onand so on.
