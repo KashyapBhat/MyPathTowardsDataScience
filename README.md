@@ -1,7 +1,7 @@
 # MyPathTowardsDataScience
 
-Just a place to store ML/AI journey. This might help others who are keen about ML. 
-Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working on.
+Just a place to store ML/AI journey. This might help others who are keen about ml. 
+Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working onand so on.
 
 ## My Projects
 
@@ -9,7 +9,7 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 
 *An application to help teachers evaluate examination papers easily using the power of Machine Learning.*
 
-## Useful articles I found on web
+### Useful articles I found on web
   * [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
   * [Job in AI](https://towardsdatascience.com/how-to-get-a-job-in-ai-with-no-experience-16526874165d)
   * [Innovative ML projects](https://www.analyticsvidhya.com/blog/2019/08/7-innovative-machine-learning-github-projects-in-python/)
@@ -19,7 +19,7 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
   * [Elite Data Science](https://elitedatascience.com/)
   * [Demanding Skills](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db?_branch_match_id=704784754788833271)
   
-## Best sites with data sets
+### Best sites with data sets
   * [Google Datasets](https://toolbox.google.com/datasetsearch)
   * [Kaggle](https://www.kaggle.com/)
   * [MlRepo](http://mlr.cs.umass.edu/ml/)
