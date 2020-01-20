@@ -5,6 +5,7 @@ Just a place where I can gather my learnings and keep it safe. This might help o
 ## My Projects
 
 [**Automated paper evaluation**](https://github.com/KashyapBhat/AumatedPaperEvaluation):
+
 *An application to help teachers evaluate examination papers easily using the power of Machine Learning.*
 
 ## Useful articles I found on web
