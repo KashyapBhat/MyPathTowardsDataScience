@@ -4,8 +4,8 @@ Just a place where I can gather my learnings and keep it safe. This might help o
 
 ## My Projects
 
-#### [Automated paper evaluation](https://github.com/KashyapBhat/AumatedPaperEvaluation):
-An application to help teachers evaluate examination papers easily using the power of Machine Learning. 
+[**Automated paper evaluation**](https://github.com/KashyapBhat/AumatedPaperEvaluation):
+*An application to help teachers evaluate examination papers easily using the power of Machine Learning.*
 
 ## Useful articles I found on web
   * [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
@@ -30,7 +30,7 @@ An application to help teachers evaluate examination papers easily using the pow
   * [Movies](http://ai.stanford.edu/~amaas/data/sentiment/)
   * [Twitter](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
   * [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html)
-  * [QA](https://hotpotqa.github.io/index.html)
+  * [Question Answer](https://hotpotqa.github.io/index.html)
   * [Spam](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
   * [Rotten Tomato Reviews](https://drive.google.com/file/d/1w1TsJB-gmIkZ28d1j7sf1sqcPmHXw352/view)
   * [Berkeley Deep Drive](https://bdd-data.berkeley.edu/)
