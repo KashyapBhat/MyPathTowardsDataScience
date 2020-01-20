@@ -1,11 +1,11 @@
 # MyPathTowardsDataScience
 
-Just a place to store ML/AI journey. This might help others who are keen about ml. 
+Just a place to store the ML/AI journey. This might help others who are keen about ml. 
 Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working onand so on.
 
 ## My Projects
 
-* **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
+* **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
 
 ### Useful articles I found on web
   * [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
