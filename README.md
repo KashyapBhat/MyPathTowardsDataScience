@@ -1,7 +1,6 @@
 # MyPathTowardsDataScience
 
-Just a place where I can gather my learnings and keep it safe, This might help others who are keen about data science.
-Will keep all my findings here in this repo. It can be good articles, good videos, projects that I will be working on.
+Just a place to store ML/AI journey. This might help others who are keen about ML. Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working on.
 
 ## My Projects
 
