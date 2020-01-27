@@ -5,8 +5,11 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 
 ## Start with these
 Python : https://www.youtube.com/watch?v=N4mEzFDjqtA
+
 Pandas : https://www.youtube.com/watch?v=vmEHCJofslg
+
 Numpy : https://www.youtube.com/watch?v=GB9ByFAIAH4
+
 Matplotlib : https://www.youtube.com/watch?v=DAQNHzOcO5A
 
 ## My ML Projects
