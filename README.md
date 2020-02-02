@@ -4,7 +4,7 @@ Just a place to store the ML/AI journey. This might help others who are keen abo
 Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working onand so on.
 
 ## Start with these
-Python : https://www.youtube.com/watch?v=N4mEzFDjqtA
+Python : https://www.youtube.com/watch?v=N4mEzFDjqtA, https://python.swaroopch.com/
 
 Pandas : https://www.youtube.com/watch?v=vmEHCJofslg
 
