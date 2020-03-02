@@ -12,6 +12,12 @@ Numpy : https://www.youtube.com/watch?v=GB9ByFAIAH4
 
 Matplotlib : https://www.youtube.com/watch?v=DAQNHzOcO5A
 
+## Best courses I completed 
+* Complete Machine Learning and Data Science: Zero to Mastery : [here](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
+* Machine Learning A-Z™: Hands-On Python & R In Data Science : [here](https://www.udemy.com/course/machinelearning/) 
+* Complete Python Bootcamp: Go from zero to hero in Python 3 : [here](https://www.udemy.com/course/complete-python-bootcamp/)
+
+
 ## My ML Projects
 
 * **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
