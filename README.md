@@ -13,9 +13,9 @@ Numpy : https://www.youtube.com/watch?v=GB9ByFAIAH4
 Matplotlib : https://www.youtube.com/watch?v=DAQNHzOcO5A
 
 ## Best courses I completed 
-* Zero to Mastery [Complete Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
-* Machine Learning A-Z™ [Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) 
-* Complete Python Bootcamp [Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
+* Zero to Mastery: [Complete Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
+* Machine Learning A-Z™: [Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) 
+* Complete Python Bootcamp: [Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
 
 
 ## My ML Projects
