@@ -4,7 +4,7 @@ Just a place to store the ML/AI journey. This might help others who are keen abo
 Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working onand so on.
 
 ## Start with these
-Python : https://www.youtube.com/watch?v=N4mEzFDjqtA | https://python.swaroopch.com 
+Python : https://www.youtube.com/watch?v=N4mEzFDjqtA | https://www.w3schools.com/python/default.asp | https://python.swaroopch.com 
 
 Pandas : https://www.youtube.com/watch?v=vmEHCJofslg
 
@@ -12,7 +12,7 @@ Numpy : https://www.youtube.com/watch?v=GB9ByFAIAH4
 
 Matplotlib : https://www.youtube.com/watch?v=DAQNHzOcO5A
 
-## Best courses I found useful
+## Best courses I completed and found very useful
 * Zero to Mastery: [Complete Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
 * Machine Learning A-Z™: [Hands-On Python](https://www.udemy.com/course/machinelearning/) 
 * Complete Python Bootcamp: [Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
