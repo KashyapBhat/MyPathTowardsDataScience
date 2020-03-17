@@ -13,7 +13,7 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 
 * **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
 
-## Start with these
+### Start with these
 * Python : https://www.youtube.com/watch?v=N4mEzFDjqtA | https://www.w3schools.com/python/default.asp | https://python.swaroopch.com 
 
 * Pandas : https://www.youtube.com/watch?v=vmEHCJofslg
