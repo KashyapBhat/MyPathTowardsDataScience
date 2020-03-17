@@ -9,9 +9,14 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 * Complete Python Bootcamp: [Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
 * NPTEL IIT-Kharagpur: [Introduction to Machine Learning](https://nptel.ac.in/courses/106105152/)
 
-## My ML Projects
+## Major ML Projects
 
 * **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
+
+## Projects
+* **Heart Disease Classification Problem** (https://github.com/KashyapBhat/MyPathTowardsMachineLearning/tree/master/Projects/HeartDiseaseClassificationProblem): *Analayse and Predict whether a person has heart disease or not.* 
+
+* **Kaggle Bulldozer Price Competition** (https://github.com/KashyapBhat/MyPathTowardsMachineLearning/tree/master/Projects/KaggleBulldozerPriceCompetition): *Analyse and predict the auction sale price for bulldozers.* 
 
 ### Start with these
 * Python : https://www.youtube.com/watch?v=N4mEzFDjqtA | https://www.w3schools.com/python/default.asp | https://python.swaroopch.com 
