@@ -1,0 +1,56 @@
+# MyPathTowardsMachineLearning
+
+## Conda Environment setup
+
+If the conda command says conda command not found, Most probably the anaconda path is not set.
+To set the path, Do:
+
+1. Find your installed anaconda3 folder and move it to /Users/MY_USER_NAME/
+
+2. Open Terminal
+
+3. Enter: export PATH='/Users/MY_USER_NAME/anaconda3/bin:$PATH'
+
+4. Enter: conda init zsh
+
+It should get the job done.
+
+
+## Best courses I found useful
+* Zero to Mastery: [Complete Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
+* Machine Learning A-Z™: [Hands-On Python](https://www.udemy.com/course/machinelearning/) 
+* Complete Python Bootcamp: [Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
+* NPTEL IIT-Kharagpur: [Introduction to Machine Learning](https://nptel.ac.in/courses/106105152/)
+
+## My ML Projects
+
+* **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
+
+### Useful articles I found on web
+  * [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
+  * [Job in AI](https://towardsdatascience.com/how-to-get-a-job-in-ai-with-no-experience-16526874165d)
+  * [Innovative ML projects](https://www.analyticsvidhya.com/blog/2019/08/7-innovative-machine-learning-github-projects-in-python/)
+  * [Best Learning Courses](https://www.learndatasci.com/best-data-science-online-courses/)
+  * [Road map for ML](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/eyn8cna/?utm_source=share&utm_medium=web2x)
+  * [Python 0 to hero](quora.com/If-you-are-mentoring-someone-to-become-a-data-scientist-using-Python-from-0-knowledge-what-would-the-learning-path-look-like)
+  * [Elite Data Science](https://elitedatascience.com/)
+  * [Demanding Skills](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db?_branch_match_id=704784754788833271)
+  
+### Best sites with data sets
+  * [Google Datasets](https://toolbox.google.com/datasetsearch)
+  * [Kaggle](https://www.kaggle.com/)
+  * [MlRepo](http://mlr.cs.umass.edu/ml/)
+  * [Visual Data](https://www.visualdata.io/)
+  * [Government Data](https://www.data.gov/)
+  * [Housing](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
+  * [Geo Maps](https://www.kaggle.com/xiuchengwang/python-dataset-download)
+  * [Images](https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html)
+  * [Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+  * [Movies](http://ai.stanford.edu/~amaas/data/sentiment/)
+  * [Twitter](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
+  * [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html)
+  * [Question Answer](https://hotpotqa.github.io/index.html)
+  * [Spam](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
+  * [Rotten Tomato Reviews](https://drive.google.com/file/d/1w1TsJB-gmIkZ28d1j7sf1sqcPmHXw352/view)
+  * [Berkeley Deep Drive](https://bdd-data.berkeley.edu/)
+  
