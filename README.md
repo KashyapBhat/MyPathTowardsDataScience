@@ -9,7 +9,7 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 * Complete Python Bootcamp: [Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
 * NPTEL IIT-Kharagpur: [Introduction to Machine Learning](https://nptel.ac.in/courses/106105152/)
 
-## Major ML Projects
+## Major Projects
 
 * **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
 
