@@ -3,15 +3,6 @@
 Just a place to store the ML/AI journey. This might help others who are keen about ml. 
 Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working onand so on.
 
-## Start with these
-* Python : https://www.youtube.com/watch?v=N4mEzFDjqtA | https://www.w3schools.com/python/default.asp | https://python.swaroopch.com 
-
-* Pandas : https://www.youtube.com/watch?v=vmEHCJofslg
-
-* Numpy : https://www.youtube.com/watch?v=GB9ByFAIAH4
-
-* Matplotlib : https://www.youtube.com/watch?v=DAQNHzOcO5A
-
 ## Best courses I completed and found very useful
 * Zero to Mastery: [Complete Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
 * Machine Learning A-Z™: [Hands-On Python](https://www.udemy.com/course/machinelearning/) 
@@ -21,6 +12,15 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 ## My ML Projects
 
 * **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
+
+## Start with these
+* Python : https://www.youtube.com/watch?v=N4mEzFDjqtA | https://www.w3schools.com/python/default.asp | https://python.swaroopch.com 
+
+* Pandas : https://www.youtube.com/watch?v=vmEHCJofslg
+
+* Numpy : https://www.youtube.com/watch?v=GB9ByFAIAH4
+
+* Matplotlib : https://www.youtube.com/watch?v=DAQNHzOcO5A
 
 ### Useful articles I found on web
   * [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
