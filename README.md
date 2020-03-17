@@ -22,6 +22,7 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 
 * **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
 
+```
 ### Useful articles I found on web
   * [Highest rated ML](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
   * [Job in AI](https://towardsdatascience.com/how-to-get-a-job-in-ai-with-no-experience-16526874165d)
@@ -49,4 +50,22 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
   * [Spam](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
   * [Rotten Tomato Reviews](https://drive.google.com/file/d/1w1TsJB-gmIkZ28d1j7sf1sqcPmHXw352/view)
   * [Berkeley Deep Drive](https://bdd-data.berkeley.edu/)
+```  
   
+
+License
+=======
+
+    Copyright 2020 Kashyap Bhat
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
