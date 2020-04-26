@@ -13,6 +13,8 @@ Will keep all my findings/projects here in this repo. It can be good articles, g
 
 * **Automated paper evaluation** (https://github.com/KashyapBhat/AutomatedPaperEvaluation): *A project we took up in our college days, to help teachers/lecturers evaluate examination papers easily using the power of Machine Learning.* 
 
+* **Covid-19 India Data Science** (https://www.kaggle.com/kashyapbhat/covid-19-india-data-science): *A detailed data analysis and visualization on covid 19 cases in india.* 
+
 ## Projects
 * **Heart Disease Classification Problem** (https://github.com/KashyapBhat/MyPathTowardsMachineLearning/tree/master/Projects/HeartDiseaseClassificationProblem): *Analayse and Predict whether a person has heart disease or not.* 
 
