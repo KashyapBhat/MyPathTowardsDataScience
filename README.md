@@ -3,6 +3,10 @@
 Just a place to store the ML/AI journey. This might help others who are keen about ml. 
 Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working onand so on.
 
+## What this repo contains:
+* import tensorflow as wtf - Explained:
+By learning a framework like tensorflow, we can write very complicated programs with just a few lines of code, and this helps us save a lot of time.
+
 ## Best courses I completed and found very useful
 * Zero to Mastery: [Complete Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) 
 * Machine Learning A-Z™: [Hands-On Python](https://www.udemy.com/course/machinelearning/) 
