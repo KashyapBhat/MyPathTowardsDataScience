@@ -4,7 +4,7 @@ Just a place to store the ML/AI journey. This might help others who are keen abo
 Will keep all my findings/projects here in this repo. It can be good articles, good videos, projects that I will be working onand so on.
 
 ## What this repo contains:
-* **import tensorflow as wtf - Explained: **
+* **import tensorflow as wtf - Explained:**
 By learning a framework like tensorflow, we can write very complicated programs with just a few lines of code, and this helps us save a lot of time. So this folder contains basics to advanced apis available in tensorflow with mini-projects to understand them.
 
 ## Best courses I completed and found very useful
